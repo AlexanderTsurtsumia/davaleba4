@@ -5,9 +5,6 @@
 body {
     padding: 0;
 }
-header {
-    margin-left: 7%;
-}
 .mom1 {
     margin-top: 8%;
 }
@@ -26,6 +23,7 @@ header {
     margin-left: 5%;
 }
 h1 {
+    margin-left: 8%;
     font-family: DM Serif Display;
     font-size: 64px;
     font-weight: 400;
